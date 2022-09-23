@@ -113,3 +113,8 @@ El código del ejercicio es el siguiente:
         for j in range(b):
             print(" * ", end='')
 ```
+
+
+## Ejercicio 5
+
+
