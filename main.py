@@ -1,5 +1,6 @@
 from ejs.ejercicio1 import *
 from ejs.ejercicio2 import *
+from ejs.ejercicio3 import *
 from ejs.tabla import *
 
 
@@ -9,6 +10,8 @@ def main():
         main1()
     if(qedv==2):
         main2()
+    if(qedv==3):
+        main3()
     if(qedv==4):
         main4()
 
