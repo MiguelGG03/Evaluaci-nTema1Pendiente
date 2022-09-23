@@ -117,4 +117,5 @@ El código del ejercicio es el siguiente:
 
 ## Ejercicio 5
 
+![ejercicio5](https://user-images.githubusercontent.com/91721552/192046791-99af3da1-50e8-47cf-9b48-0d3fd88e878c.PNG)
 
