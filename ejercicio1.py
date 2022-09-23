@@ -15,6 +15,8 @@ def main():
             [3, 3, 3, 9],
             [4, 4, 4, 13]]
 
+    calculador(matriz,0)
+
 
 
 if __name__=='__main__':
