@@ -16,6 +16,9 @@ def main1():
             [2, 2, 2, 7],
             [3, 3, 3, 9],
             [4, 4, 4, 13]]
+    print('-----MATRIZ-----')
+    print(matriz)
+    print('--------------')
     qfdm=int(input('Que fila desea comprobar: '))
     qfdm=qfdm-1
     calculador(matriz,qfdm)
